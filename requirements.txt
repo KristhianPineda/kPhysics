@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+matplotlib
+ipympl
+seaborn
+einsteinpy
+sunpy
+ipywidgets
+jupyter lab
