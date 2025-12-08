@@ -7,4 +7,4 @@ seaborn
 einsteinpy
 sunpy
 ipywidgets
-jupyter lab
+jupyterlab
